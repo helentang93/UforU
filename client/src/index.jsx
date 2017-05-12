@@ -96,10 +96,9 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        
         <div>
           <footer>
-            <p>Made by Arseniy Kotov, Farrah Bousetta, and Helen Tang</p>
+            <p className="footer">Made by Arseniy Kotov, Farrah Bousetta, and Helen Tang</p>
           </footer>
         </div>
       </div>
